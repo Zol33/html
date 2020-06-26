@@ -1,0 +1,24 @@
+ /* div {
+      background-color: aqua;
+      width: 640px;
+      height: 480px;
+    } */
+    .box1 {
+      background-color: aqua;
+      width: 640px;
+      height: 480px;
+    }
+    .box2 {
+      background-color: green;
+      width: 640px;
+      height: 480px;
+    }
+    /*.textselectat {
+      color: red;
+      font-size: 30px;
+    }*/
+    .box3 {
+      background-color: green;
+      width: 120px;
+      height: 100px;
+    }
